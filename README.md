@@ -7,25 +7,27 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-*https://github.com/IrinaSalovskaya/DZ-Java-1.1/issues/2
+* https://github.com/IrinaSalovskaya/DZ-Java-1.1/issues/2
 
 
 В процессе тестирования использовались следующие артефакты*:
 
-*Руководство использования KeyValidator
+* Руководство использования KeyValidator
 
 В качестве тестовых данных использовались данные
-*https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
+* https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
 
-*В результате работы вывод приложения будет выглядеть следующим образом:
+* В результате работы вывод приложения будет выглядеть следующим образом:
 
-*Result for номер ключа: OK
-*Result for номер ключа: FAIL
-*где OK означает, что ключ валидный, FAIL - невалидный.
+* Result for номер ключа: OK
+
+* Result for номер ключа: FAIL
+
+* где OK означает, что ключ валидный, FAIL - невалидный.
 
 
 
 Тестирование производилось в следующем окружении:
 
-*Windows 10 Pro, Версия 19,09  Сборка ОС18363.1379
- *Java 11
+* Windows 10 Pro, Версия 19,09  Сборка ОС18363.1379
+ * Java 11
